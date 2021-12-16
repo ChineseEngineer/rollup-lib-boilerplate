@@ -47,13 +47,13 @@ npm i eslint-prettier-config -D
 
 ### Visual Studio Code 项目配置
 ```json
-    "editor.codeActionsOnSave": {
-        "source.fixAll": true,
-        "source.fixAll.eslint": true,
-    },
-    "eslint.format.enable": true,
-    "prettier.enable": true,
-    "editor.formatOnSave": true,
+"editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.eslint": true,
+},
+"eslint.format.enable": true,
+"prettier.enable": true,
+"editor.formatOnSave": true,
 ```
 
 ### package.json 相关说明
